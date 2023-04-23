@@ -7,24 +7,26 @@
 
 This code using https://arxiv.org/abs/1705.06830 that use fast style transfer networks to allow real-time stylization using any content/style image pair.
 
+ <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/contoh%20gambar%20awal.png" width="500">
 
-## 🎞️*List Of The Painter And The Image*
+## 🎨 *List Of The Painter And The Image*
 
 The painter's style used has a digital image link uploaded on wikipedia. 
 
 | *Painter* | *Image* |
-|--|--|--|
-| Raden Saleh 					| <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
-| Abdullah Suriosubroto |   <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
-| Umi Dachlan           |   <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
-| Affandi               |   <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
+|--|--|
+| Raden Saleh 					| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/1280px-Raden_Saleh_-_Diponegoro_arrest.jpg" width="500"></img> |
+| Abdullah Suriosubroto |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/COLLECTIE_TROPENMUSEUM_Olieverfschilderij_door_Abdullah_Suriosubroto_(1878-1941)_voorstellend_een_berg_in_de_Preanger_TMnr_5492-2.jpg" width="500"></img> |
+| Umi Dachlan           |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Umi_D_1982_1.jpg" width="500"></img> |
+| Affandi               |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Affandi_'Wisdom_of_the_East'%2C_fresco_mural.jpg" width="500"></img> |
 
 ## 🤖 Preview *Output*
-Output
+Output example of style transfer
 
-| *Mask* |*ROI*| *Output* |
-|--|--|--|
-| raden_saleh | https://upload.wikimedia.org/wikipedia/commons/0/0a/The_Great_Wave_off_Kanagawa.jpg | <img src="https://raw.githubusercontent.com/adamazanos/deteksi_muka_giring/main/Prev%20in%20out/giring%202.png" width="500"></img> |
-
-
-
+| *Mask* |
+|--|
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20afandi.png" width="500"></img>|
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20raden.png" width="500"></img> 
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/taubigen%20abdullah.png" width="500"></img> 
+|
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Sea%20turtle%20umi%20dachlan.png" width="500"></img>|
