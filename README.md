@@ -1,6 +1,6 @@
 #  🧑‍🎨 Style Transfer Training
 
-##  # 🖼️ TF Hub Fast Style Transfer Indonesian Painter Style
+##  🖼️ TF Hub Fast Style Transfer Indonesian Painter Style
 > **This project is focus to testing tensorflow fast style transfer, with Indonesian painter style.**
 > [https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
   
