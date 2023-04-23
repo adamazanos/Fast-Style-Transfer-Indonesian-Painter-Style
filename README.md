@@ -25,8 +25,7 @@ Output example of style transfer
 
 | *Mask* |
 |--|
-| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20afandi.png" width="500"></img>|
-| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20raden.png" width="500"></img> 
-| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/taubigen%20abdullah.png" width="500"></img> 
-|
-| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Sea%20turtle%20umi%20dachlan.png" width="500"></img>|
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20afandi.png"></img>|
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20raden.png"></img> 
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/taubigen%20abdullah.png"></img> 
+| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Sea%20turtle%20umi%20dachlan.png"></img>|
