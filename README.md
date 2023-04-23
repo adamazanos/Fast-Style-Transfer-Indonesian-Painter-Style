@@ -9,6 +9,10 @@ This code using https://arxiv.org/abs/1705.06830 that use fast style transfer ne
 
  <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/contoh%20gambar%20awal.png">
 
+## 🔊 *Preview Code*
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/github/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/blob/main/TF_Hub_Fast_Style_Transfer_Indonesian_Painter_Style.ipynb )
+
 ## 🎨 *List Of The Painter And The Image*
 
 The painter's style used has a digital image link uploaded on wikipedia. 
