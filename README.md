@@ -23,7 +23,7 @@ The painter's style used has a digital image link uploaded on wikipedia.
 ## 🤖 Preview *Output*
 Output example of style transfer
 
-| *Mask* |
+| *After Transfer* |
 |--|
 | <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20afandi.png"></img>|
 | <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/pasar%20pagi%20raden.png"></img> 
