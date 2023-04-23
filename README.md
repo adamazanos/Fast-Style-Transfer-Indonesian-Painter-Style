@@ -7,7 +7,7 @@
 
 This code using https://arxiv.org/abs/1705.06830 that use fast style transfer networks to allow real-time stylization using any content/style image pair.
 
- <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/contoh%20gambar%20awal.png" width="500">
+ <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/contoh%20gambar%20awal.png">
 
 ## 🎨 *List Of The Painter And The Image*
 
