@@ -9,10 +9,11 @@
 This code using https://arxiv.org/abs/1705.06830 that use fast style transfer networks to allow real-time stylization using any content/style image pair.
 
  <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/contoh%20gambar%20awal.png">
-
+ 
 ## 🔊 *Preview Code*
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/github/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/blob/main/TF_Hub_Fast_Style_Transfer_Indonesian_Painter_Style.ipynb )
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]( https://colab.research.google.com/github/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/blob/main/TF_Hub_Fast_Style_Transfer_Indonesian_Painter_Style.ipynb ) **or** <kbd> [Code](https://github.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/blob/main/TF_Hub_Fast_Style_Transfer_Indonesian_Painter_Style.ipynb) </kbd>
+
 
 ## 🎨 *List Of The Painter And The Image*
 
