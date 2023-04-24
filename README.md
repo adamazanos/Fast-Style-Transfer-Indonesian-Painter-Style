@@ -1,3 +1,4 @@
+
 #  🧑‍🎨 Style Transfer Training
 
 ##  🖼️ TF Hub Fast Style Transfer Indonesian Painter Style
@@ -19,10 +20,10 @@ The painter's style used has a digital image link uploaded on wikipedia.
 
 | *Painter* | *Image* |
 |--|--|
-| Raden Saleh 					| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/1280px-Raden_Saleh_-_Diponegoro_arrest.jpg" width="500"></img> |
-| Abdullah Suriosubroto |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/COLLECTIE_TROPENMUSEUM_Olieverfschilderij_door_Abdullah_Suriosubroto_(1878-1941)_voorstellend_een_berg_in_de_Preanger_TMnr_5492-2.jpg" width="500"></img> |
-| Umi Dachlan           |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Umi_D_1982_1.jpg" width="500"></img> |
-| Affandi               |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Affandi_'Wisdom_of_the_East'%2C_fresco_mural.jpg" width="500"></img> |
+| Raden Saleh 					| <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/1280px-Raden_Saleh_-_Diponegoro_arrest.jpg" width="250"></img> |
+| Abdullah Suriosubroto |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/COLLECTIE_TROPENMUSEUM_Olieverfschilderij_door_Abdullah_Suriosubroto_(1878-1941)_voorstellend_een_berg_in_de_Preanger_TMnr_5492-2.jpg" width="250"></img> |
+| Umi Dachlan           |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Umi_D_1982_1.jpg" width="250"></img> |
+| Affandi               |   <img src="https://raw.githubusercontent.com/adamazanos/Fast-Style-Transfer-Indonesian-Painter-Style/main/Asset%20readme/Affandi_'Wisdom_of_the_East'%2C_fresco_mural.jpg" width="250"></img> |
 
 ## 🤖 Preview *Output*
 Output example of style transfer
