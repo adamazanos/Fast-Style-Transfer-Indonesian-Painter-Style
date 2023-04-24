@@ -8,6 +8,7 @@
 > **This project is focus to testing tensorflow fast style transfer, with Indonesian painter style.**
 > [https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
   
+This project focus to implement fast style transfer with indonesian style painter.
 
 This code using https://arxiv.org/abs/1705.06830 that use fast style transfer networks to allow real-time stylization using any content/style image pair.
 
