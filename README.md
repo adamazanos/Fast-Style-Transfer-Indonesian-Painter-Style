@@ -1,4 +1,4 @@
-#  🧑‍🎨 Style Transfer Training
+#  🧑‍🎨 TF Hub Fast Style Transfer Indonesian Painter Style
 
 ### 🔗 This Link
 
